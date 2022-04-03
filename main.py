@@ -2,7 +2,7 @@ import csv
 import re
 from pprint import pprint
 
-INFILE = "/Users/guthrie/Downloads/new PL layout.csv"
+INFILE = "new PL layout.csv"
 SPLIT_FILE = "splits.csv"
 
 # Dates starting from col 2
